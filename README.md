@@ -19,7 +19,7 @@
 
 ### The Big Bloom 
 1698 was a special year for the Hortus botanicus Leiden, the oldest botanical garden in the Netherlands. After 96 years, its exotic “Aloe Americana” (or *Agave americana*, as it is classified today), bloomed for the first time. To commemorate the marvelous event, the Hortus commissioned an illustrated print of the plant.[^ref1] A surviving poster-sized print, recently added to the Dumbarton Oaks Rare Book Collection, reveals sixteenth and seventeenth century European botanists’ fascination with the so-called “century plant” and provides a lens to explore the history of agave—a plant that has shaped human societies across three continents.
-<param ve-image manifest="https://iiif.juncture-digital.org/manifest/600a164e48cb34a33b022f405dbda9ef6b8b69cc06b87cb97f2f197a8bf592b0">
+<param ve-knightlab-timeline source="17V2RrKTL6Y0x5_0KSPMEX4jjowek5miliKxiM8" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="750">
 <param title="Agave" eid="Q155874">
 <param title="Hortus Botanicus Leiden" eid="Q2468128" aliases="city’s new botanical garden">
 {#paragraph1}
