@@ -47,10 +47,13 @@ Others are selectable using icons displayed in the top right margin of the parag
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 <param ve-map center="Q36600" zoom="11">
 
-## Google Books
+## Archive.org
 
-Google Books test
-<param ve-iframe src="https://archive.org/details/speciesplantar02linn/page/n3/mode/2up&output=embed"
+Archive.org test 
+
+<param ve-iframe src="https://archive.org/details/speciesplantar02linn/page/n3/mode/2up&output=embed">
+
+
 
 # References
 
