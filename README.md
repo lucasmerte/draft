@@ -50,7 +50,7 @@ Others are selectable using icons displayed in the top right margin of the parag
 ## Google Books
 
 Google Books test
-<param ve-iframe src="https://archive.org/details/speciesplantar02linn/page/n3/mode/2up?view=theateroutput=embed"
+<param ve-iframe src="https://archive.org/details/speciesplantar02linn/page/n3/mode/2up?view=theater&output=embed"
                       
 
       
