@@ -51,7 +51,7 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 Archive.org test 
 
-<param ve-iframe src="https://archive.org/details/speciesplantar02linn/page/n3/mode/2up&output=embed">
+<param ve-iframe src="https://archive.org/details/speciesplantar02linn/page/n3/mode/2up&view=theater&output=embed">
 
 
 
