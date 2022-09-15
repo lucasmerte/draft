@@ -50,8 +50,8 @@ Others are selectable using icons displayed in the top right margin of the parag
 ## Google Books
 
 Google Books test
-<param ve-iframe src="https://books.google.com/books?id=CCpuW657zbwC&output=embed">
-
+<param ve-iframe src="https://archive.org/details/speciesplantar02linn/page/n3/mode/2up&output=embed"
+                      
 # References
 
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
