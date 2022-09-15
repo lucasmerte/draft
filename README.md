@@ -17,7 +17,7 @@
 # Sample visual essay
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
-       <param ve-knightlab-timeline source="17V2RrKTL6Y0x5_0KSPMEX4jjowek5miliKxiM8" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="750">
+<param ve-knightlab-timeline source="17V2RrKTL6Y0x5_0KSPMEX4jjowek5miliKxiM8" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="750">
 
 # Basic usage
 
