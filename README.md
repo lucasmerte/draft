@@ -50,7 +50,7 @@ Others are selectable using icons displayed in the top right margin of the parag
 ## Google Books
 
 Google Books test
-<param ve-iframe src="https://books.google.com/books?id=CCpuW657zbwC&pg=PA561&output=embed">
+<param ve-iframe src="https://books.google.com/books?id=CCpuW657zbwC&pg=PAFrontCover&output=embed">
 
 # References
 
