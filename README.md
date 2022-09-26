@@ -7,8 +7,8 @@
        layout="vertical">
 
 Since the late 1990s, the Amazonian psychoactive beverage <span eid="Q380436">ayahuasca</span> has grown increasingly common throughout the world. Those living in Europe or the United States may be most familiar with the brew through <span eid="Q183308">New Age</span> spiritual practices, exoticizing travel writing, and the growing ecotourism industry. However, these associations can obscure the long traditions of ayahuasca’s use by a variety of Indigenous groups in what is now South America. Even within <span eid="Q244451">Amazonia</span>, ayahuasca’s ingredients and components, ritual usage, and spiritual and medicinal effects remain highly dynamic and contested. With its evolving story, ayahuasca can serve as an eloquent “plant teacher,” as it is known in the <span eid="Q419"> Peruvian</span> Amazon, highlighting both the relationality between humans and plants and the ways those relations were appropriated and transformed for a global market. 
-<param ve-compare curtain="https://iiif.juncture-digital.org/manifest/1191078696f00a4216b19a1930605d87d0c2e0a9e722ba1646faf1e14c8d6e75">
-<param ve-compare="https://iiif.juncture-digital.org/manifest/63902a11a1f914b658b491ce65b4d2335aca830d0d64a4eb1def62ff5f437d47" fit="contain">
+<param ve-compare curtain url="https://iiif.juncture-digital.org/manifest/1191078696f00a4216b19a1930605d87d0c2e0a9e722ba1646faf1e14c8d6e75">
+<param ve-compare url="https://iiif.juncture-digital.org/manifest/63902a11a1f914b658b491ce65b4d2335aca830d0d64a4eb1def62ff5f437d47" fit="contain">
 
 {#paragraph1}
 
