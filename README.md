@@ -7,7 +7,7 @@
        layout="vertical">
 
 Estamos en Buenos Aires. 
-<para ve-entity eid="Q1486" fill="#b71a1a" label="Buenos Aires">
+<param ve-entity eid="Q1486" fill="#b71a1a" label="Buenos Aires">
 <param ve-map center="Q1486" zoom="6">
 
 {#paragraph1}
