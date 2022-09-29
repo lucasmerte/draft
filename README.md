@@ -8,7 +8,7 @@
 
 Estamos en Buenos Aires. Vamos a Montevideo. 
 <param ve-entity eid="Q1486" fill="#b71a1a" label="Buenos Aires">
-<param ve-entity eid="Q1335" fill="#dc882f">
+<param ve-entity eid="Q1335" fill="#dc882f" label="Montevideo">
 <param ve-map center="Q1486" zoom="6">
 
 {#paragraph1}
