@@ -6,7 +6,7 @@
        banner="https://live.staticflickr.com/8507/27951788334_154753d604_4k.jpg" 
        layout="vertical">
 
-Estamos en Buenos Aires. 
+Estamos en Buenos Aires. Vamos a Montevideo. 
 <param ve-entity eid="Q1486" fill="#b71a1a" label="Buenos Aires">
 <param ve-entitty eid="Q1335" fill="#dc882f">
 <param ve-map center="Q1486" zoom="6">
