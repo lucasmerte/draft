@@ -11,8 +11,7 @@
 Estamos en Buenos Aires. Vamos a Montevideo. 
 <param ve-entity eid="Q1486" fill="#b71a1a" label="Buenos Aires">
 <param ve-entity eid="Q1335" fill="#dc882f" label="Puerto de Montevideo">
-<param ve-map center="Q1486" zoom="6" show-labels>
-title="Viaje de Buenos Aires a Montevideo" 
+<param ve-map center="Q1486" zoom="6" show-labels title="Viaje de Buenos Aires a Montevideo">
 
 
 ### Introducción
