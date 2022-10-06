@@ -50,7 +50,7 @@ Vamos a Alemania.
 <param ve-entity eid="Q183" label="Alemania">
 <param ve-map center ="Q183" zoom="6" show-labels
 basemap="Esri_WorldPhysical">
-<param ve-map layer geojson active titile="Divisions" url="Alemania1.geojson">
+<param ve-map layer geojson active titile="Divisions" url="Alemania.geojson">
 
        
 Although many associate ayahuasca with a particular species of plant, it is the name of a group of Indigenous psychoactive <span eid="Q1136912">decoctions</span> made by boiling a combination of species found in certain regions of Amazonia. Ayahuasca is from the <span data-click-map-flyto="-13.5105, -71.9721, 6.5">Quechua</span> language: _aya_ meaning “soul, ancestors, or dead persons” and _waska_ meaning “vine or rope.” Popular translations in English include “vine of the soul” and “rope of death.”[^ref1] Among groups living in Ecuador, Colombia, Peru, and Brazil, ayahuasca is called _natema_, _hoasca_, _daime_, _yagé_, or _yajé_.
