@@ -48,7 +48,7 @@ basemap="Esri_WorldPhysical">
 
 Vamos a Alemania. 
 <param ve-entity eid="Q183" label="Alemania">
-<param ve-map center ="Q183" zoom="6" show-labels
+<param ve-map center ="Q183" zoom="8" show-labels
 basemap="Esri_WorldPhysical">
 <param ve-map layer geojson active titile="Divisions" url="Alemania.geojson">
 
