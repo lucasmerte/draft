@@ -17,8 +17,11 @@ Estamos en Buenos Aires. Vamos a Montevideo.
        coords="-34.46707970097541, -57.82933247573544"
        size="38, 95"
        iconAnchor="22, 94">
-
-
+<param ve-map-marker
+       url="image8.jpeg"
+       coords="-34.50353286984444, -58.49226237059358"
+       size="38, 95"
+       circle="true">
 
 ### Introducción
 
