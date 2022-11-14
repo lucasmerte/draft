@@ -46,7 +46,8 @@ basemap="Esri_WorldPhysical">
 
 Network de los Medici. 
 <param ve-d3plus-ring-network
-url="medici.tsv">
+url="medici.tsv"
+center="Anna Maria Luisa de' Medici">
 
 ### Introducción
 
