@@ -12,6 +12,11 @@ Estamos en Buenos Aires. Vamos a Montevideo.
 <param ve-entity eid="Q1486" fill="#b71a1a" label="Buenos Aires">
 <param ve-entity eid="Q1335" fill="#dc882f" label="Puerto de Montevideo">
 <param ve-map center="Q1486" zoom="6" show-labels>
+<param ve-map-marker
+       url="https://leafletjs.com/examples/custom-icons/leaf-green.png"
+       coords="-34.46707970097541, -57.82933247573544"
+       size="38, 95"
+       iconAnchor="22, 94">
 
 
 
