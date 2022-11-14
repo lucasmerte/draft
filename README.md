@@ -20,8 +20,8 @@ Estamos en Buenos Aires. Vamos a Montevideo.
 <param ve-map-marker
        url="image8.jpeg"
        coords="-33.78318063248481, -58.91624379780346"
-       size="38, 95"
-       circle="true">
+       size="38, 95">
+       
 
 ### Introducción
 
