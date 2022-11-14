@@ -49,6 +49,14 @@ Network de los Medici.
 url="medici.tsv"
 center="Anna Maria Luisa de' Medici">
 
+### Network
+
+Network de los Medici. 
+<param ve-vis-network
+url="medici.tsv"
+center="Anna Maria Luisa de' Medici">
+
+
 ### Introducción
 
 Estamos en Buenos Aires. Vamos a Montevideo. 
