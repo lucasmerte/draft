@@ -42,6 +42,12 @@ title="Viaje de Buenos Aires a Montevideo"
 basemap="Esri_WorldPhysical">
 <param ve-map layer geojson active title="viaje" url="BuenosAires.geojson">
 
+### Network
+
+Network de los Medici. 
+<param ve-d3plus-network 
+url="medici.tsv">
+
 ### Introducción
 
 Estamos en Buenos Aires. Vamos a Montevideo. 
