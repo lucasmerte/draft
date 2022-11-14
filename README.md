@@ -45,7 +45,7 @@ basemap="Esri_WorldPhysical">
 ### Network
 
 Network de los Medici. 
-<param ve-d3plus-network 
+<param ve-d3plus-ring-network
 url="medici.tsv">
 
 ### Introducción
