@@ -87,7 +87,7 @@ basemap="Esri_WorldPhysical">
 Georeferencia. 
 
 <param ve-map center="-35.966465263236614, -66.23551817146799" zoom="3">
-<param ve-map layer mapwarper active mapwarper-id="15706" title="Argentina 1740">
+<param ve-map-layer mapwarper active mapwarper-id="15706" title="Argentina 1740">
 
 ### Map Warper
        
